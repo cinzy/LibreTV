@@ -1,6 +1,6 @@
 {
   "name": "tv",
-  "_main": "./service-worker.js",
+  "main": "",
   "compatibility_date": "2022-07-12",
   "workers_dev": false
 }
